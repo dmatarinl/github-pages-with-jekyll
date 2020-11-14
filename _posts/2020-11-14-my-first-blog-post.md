@@ -1,4 +1,3 @@
-something
 ---
 title: "CATLAND"
 date: 2020-11-14
